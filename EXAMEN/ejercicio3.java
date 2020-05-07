@@ -1,7 +1,7 @@
 package EXAMEN;
 
 
-public class ejercicio3 {
+public class ejercicio3 extends Thread {
 
     public static void main(String[] args) {
         System.out.println(factorial(3));
